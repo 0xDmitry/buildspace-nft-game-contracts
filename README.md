@@ -1,15 +1,3 @@
-# Basic Sample Hardhat Project
+Buildspace "Create your own mini turn-based NFT browser game" project https://app.buildspace.so/projects/CO5cc2751b-e878-41c4-99fa-a614dc910ee9
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+You can try it here: https://nft-game-starter-project.dimfilippov.repl.co/
